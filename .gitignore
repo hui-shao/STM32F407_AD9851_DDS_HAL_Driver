@@ -1,0 +1,13 @@
+MDK-ARM/OBJ/*
+MDK-ARM/.vscode/
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvguix.*
+MDK-ARM/DebugConfig
+MDK-ARM/EventRecorderStub.scvd
+
+.idea/
+.vs/
+
+!MDK-ARM/OBJ/*.hex
+MDK-ARM/EventRecorderStub.scvd
